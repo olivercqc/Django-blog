@@ -2,7 +2,7 @@
 
 This blog is developed by *Python3.7* and *Django2.2*
 
-Since I'm a **poor guy** and got no money to rent a web server, You need to set up ur personal python enviroment to have a look at this *simple and crude* blog
+Since I'm a **poor guy** and got no money to rent a web server, You need to set up ur personal python enviroment to see this *simple and crude* blog
 
 ### I strongly recommend u try *virtualenv*
 - first: just type `pip install virtualenv virtualenvwrapper` in ur command line and press `Enter`, just a little reminder, if u are working on `Windows` system, u need to type `pip install virtualenv virtualenvwrapper-win`
